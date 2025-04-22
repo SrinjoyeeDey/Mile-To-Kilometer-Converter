@@ -35,12 +35,7 @@ Well… NOT anymore! This super snappy, eye-pleasing little app will convert mil
 
 ---
 
-🖼️ Sneak Peek (Add your screenshot here!)
 
-Because pics > words, right?
-
-
----
 
 # 🛠️ How to Summon the Converter
 
